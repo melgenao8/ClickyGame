@@ -1,8 +1,62 @@
 [
     {
         "id": 1,
-        "image": "/images/blue-square-02.jpg",
+        "image": "/images/square-01.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "/images/square-02.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "/images/square-03.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "/images/square-04.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "/images/square-05.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "/images/square-06.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "/images/square-07.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "/images/square-08.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "/images/square-09.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "/images/square-10.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "/images/square-11.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "/images/square-12.jpg",
         "clicked": false
     }
-   
 ]
